@@ -1,0 +1,60 @@
+/* IMPOSTAZIONI GENERALI */
+html { font-size: 62.5%;}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+
+    
+}
+
+.header {
+    background-color: black;
+    background-position: center;
+    
+    text-align: center;
+    margin: auto;
+}
+.header img {margin: auto;}
+
+
+
+hr{display: none;}
+
+/* HEADER*/
+header {
+    background-image: url(../images/banner.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 400px;
+}
+
+button {color: white;
+background-color: #f04c2f;}
+        
+header div {margin-bottom: 1.5em;}
+h1 {color: #25a2c3;}
+
+
+h1,h2 { line-height: 1.5;}
+
+h1,h2,button {font-weight: bold;
+             font-family: 'Montserrat', sans-serif;
+}
+
+
+/*MAIN*/
+h2 {color:#25a2c3 ;}
+main {text-align: center;}
+article img {border-radius: 10px;}
+blockquote {box-sizing: border-box;
+width: 50%;
+background-color: #f04c2f;
+color: white;
+text-align: center;
+margin-left: auto;
+margin-right: auto;}
+
+/* Footer*/
+footer{text-align: center;}
